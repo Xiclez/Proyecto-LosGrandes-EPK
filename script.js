@@ -8,10 +8,10 @@ const djData = {
             <p>Se especializa en Dark Techno, Techno House y Techno Melodic, logrando crear atmósferas inmersivas en la pista de baile. Junto a su hermano gemelo An'Gelo, ha llevado el proyecto 'Los Grandes' a ganar concursos nacionales como "@FM El After" y presentarse en los mejores recintos y festivales del estado.</p>
         `,
         images: [
-            "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1772643397/TheBigsSesh1_8_bxug6u.jpg",
-            "https://images.unsplash.com/photo-1542204637-e67bc7d41e48?q=80&w=600&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1598387993281-cecf8b71a8f8?q=80&w=600&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?q=80&w=600&auto=format&fit=crop"
+            "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1772747078/IMG_3624_glxldc.jpg",
+            "https://res.cloudinary.com/dws4nvuln/image/upload/v1756692695/IMG_1721_ktmjih.jpg",
+            "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1772747865/1c725098-43b8-4c6c-afc3-4a854c4de97f.png",
+            "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1772748435/3d310043-f1ab-4368-bc14-d10cc9cfce11.png"
         ]
     },
     'angelo': {
@@ -23,10 +23,10 @@ const djData = {
             <p>Con una fuerte presencia escénica y selecciones musicales envolventes, genera verdaderas experiencias auditivas y catárticas en la multitud en cada uno de sus sets y presentaciones B2B.</p>
         `,
         images: [
-            "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1772643397/TheBigsSesh1_8_bxug6u.jpg",
-            "https://images.unsplash.com/photo-1605722243979-fc087f96a759?q=80&w=600&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1574453580436-1e6462723c31?q=80&w=600&auto=format&fit=crop",
-            "https://images.unsplash.com/photo-1576525865260-9f0e7cfb02b3?q=80&w=600&auto=format&fit=crop"
+            "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1772747156/IMG_3646_zeguce.jpg",
+            "https://res.cloudinary.com/dws4nvuln/image/upload/v1756695038/IMG_1976_hojkuh.jpg",
+            "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1772747532/cace2ff7-3e1a-4010-a40f-b064f0f10eba.png",
+            "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1772747642/72a9f602-69b9-4ab1-a135-cf43800fe820.png"
         ]
     },
     'daxiklez': {
