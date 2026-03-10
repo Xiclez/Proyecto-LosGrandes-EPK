@@ -67,7 +67,12 @@ const galleryItems = [
     { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773105015/469881278_122127912284470044_4180221927050199851_n_zclngo.jpg", positionClass: "object-[center_45%]" },
     { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773105014/467705801_122124973994470044_4127114491848095831_n_klimbl.jpg", positionClass: "object-[center_15%]" },
     { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773105014/467583533_122124717380470044_6716965640282206729_n_fncypw.jpg", positionClass: "" },
-    { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773105014/455728541_122104450754470044_3595936200157044103_n_e5sd7a.jpg", positionClass: "" }
+    { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773105014/455728541_122104450754470044_3595936200157044103_n_e5sd7a.jpg", positionClass: "" },
+    { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773163283/IMG_3598_hq3vlm.jpg", positionClass: "" },
+    { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773163355/IMG_4996_har3tr.jpg", positionClass: "" },
+    { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773163427/IMG_5020-Mejorado-NR_jj8k2x.jpg", positionClass: "" },
+    { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773163764/WhatsApp_Image_2026-03-10_at_11.28.58_AM_ook3rh.jpg", positionClass: "" },
+    { url: "https://res.cloudinary.com/dn4m0kr7j/image/upload/v1773163765/WhatsApp_Image_2026-03-10_at_11.24.59_AM_nn0zhc.jpg", positionClass: "" }
     // Puedes seguir agregando más objetos aquí copiando el formato { url: "...", positionClass: "" }
 ];
 
